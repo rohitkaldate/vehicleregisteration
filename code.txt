@@ -1,0 +1,9 @@
+This is vehicle registration application created using the java.
+This application will ask for the vehicle details and then it will store the details in the file.
+The application will also provide the option to view the vehicle details.
+The application will also provide the option to delete the vehicle details.
+The application will also provide the option to update the vehicle details.
+The application will also provide the option to search the vehicle details.
+The application will also provide the option to exit the application.
+The application will also provide the option to view all the vehicle details.
+The application will also provide the option to view the vehicle details by the vehicle number.
