@@ -19,7 +19,6 @@ public class VehicleRegistrationApp {
             System.out.println("5. Return to Main Menu");
             System.out.println("6. Exit Application");
             System.out.print("Enter your choice: ");
-
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume newline
 
