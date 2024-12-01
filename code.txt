@@ -7,3 +7,4 @@ The application will also provide the option to search the vehicle details.
 The application will also provide the option to exit the application.
 The application will also provide the option to view all the vehicle details.
 The application will also provide the option to view the vehicle details by the vehicle number.
+The application will also provide the option to view the vehicle details by the vehicle owner name
